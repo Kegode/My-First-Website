@@ -1,0 +1,166 @@
+ /*About Us*/
+h3{
+            color: chocolate;
+            font-size: 28px;
+            font-family: Chilanka;
+            text-align: center;
+            text-decoration: underline;
+            margin-top: 50px;
+
+        }
+  body{
+            background-color: beige;
+            padding: 20px;
+        }
+  h5{
+            margin-bottom: 30px;
+            text-align: left;
+            font-size: 24px;
+            color: coral;
+
+        }
+  p{
+            color: black;
+            text-align: justify;
+            font-size: 22px;
+            font-family: "Droid Sans Mono Dotted";
+            font-style: normal;
+        }
+   a{
+            margin: 20px;
+        }
+        button{
+            padding: 10px;
+            background-color: brown;
+            border-radius: 10px;
+        }
+        /*div{*/
+        /*    background-color: darkseagreen;*/
+        /*    width: 80%;*/
+        /*    margin: auto;*/
+        /*}*/
+
+        .One{
+            background-color: darkseagreen;
+            width: 80%;
+            margin: auto;
+            padding: 15px;
+
+        }
+        .two{
+            background-color: coral;
+            width: 80%;
+            margin: auto;
+
+
+        }
+        .three{
+            background-color: chartreuse;
+            width: 80%;
+            margin: auto;
+            font-family: Dialog;
+
+        }
+        /*End of about us*/
+
+        /* Start of Contact Us*/
+
+  #head_one{
+            background-color: red;
+            /*width: 70%;*/
+            margin: auto;
+            /*padding: 0 70px 0 70px;*/
+        }
+        #head_two{
+            background-color: blueviolet;
+            /*width: 70%;*/
+            margin: auto;
+            /*padding: 0 70px 0 70px;*/
+        }
+        #head_three{
+            background-color: aqua;
+            /*width: 70%;*/
+            margin: auto;
+            /*padding: 0 70px 0 70px;*/
+        }
+         .container{
+             width: 100%;
+             overflow: auto;
+             /*background-color: black;*/
+         }
+         .container div{
+             width: 33%;
+             float: left;
+         }
+         table, th, td{
+             border: 2px solid black;
+             border-collapse: collapse;
+         }
+         th, td{
+             background-color: coral;
+             border-color: red;
+         }
+         td{
+             text-align: center;
+         }
+         table{
+             border-spacing: 40px;
+         }
+
+         /*start of registration page*/
+ form{
+     background-color: coral;
+     width: 340px;
+     /*text-align: center;*/
+     padding: 20px;
+     border-radius: 20px;
+ }
+ label{
+     color: blue;
+ }
+
+/*bootstrap grid*/
+ .one{
+     background-color: #0a58ca;
+     height: 30vh;
+ }
+ .two{
+     background-color: #0a3622;
+     height: 30vh;
+ }
+ .three{
+     background-color: #1a1d20;
+     height: 30vh;
+ }
+ .four{
+     background-color: #6f42c1;
+     height: 30vh;
+ }
+ .fifth{
+     background-color: #86b7fe;
+     height: 30vh;
+ }
+ .image_one{
+     width: 100%;
+     height: 50vh;
+ }
+ .image_two{
+     width: 100%;
+     height: 50vh;
+ }
+ .image_three{
+     width: 100%;
+     height: 50vh;
+ }
+ .a{
+     background-color: #86b7fe;
+     height: 50vh;
+ }
+  .b{
+     background-color: #86b7fe;
+     height: 50vh;
+ }
+   .c{
+     background-color: #86b7fe;
+     height: 50vh;
+ }
